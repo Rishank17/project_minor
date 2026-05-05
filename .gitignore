@@ -11,6 +11,7 @@ build/
 venv/
 .venv/
 env/
+venv311/
 
 # Hugging Face model cache (large files, re-downloadable)
 ~/.cache/huggingface/
